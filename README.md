@@ -1,3 +1,5 @@
+I have been attempting to troubleshoot but with the timer isn't appearing on the live server. I have tried asking chatgpt what was wrong with my code but it seemed like everything seemed correct. I think it could be that my web connection isn't stable.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
